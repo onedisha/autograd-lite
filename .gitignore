@@ -1,0 +1,4 @@
+/nn-env/
+/graphviz/
+.ipynb_checkpoints/
+__pycache__/
